@@ -6,14 +6,22 @@ namespace TestProject3
     public class MstestMstestTwoRoadDivergedAndICouldNotTravelBothMtestUnitTestClass_014
     {
         [TestMethod]
-        public void MstestMstestTwoRoadDivergedAndICouldNotTravelBothMtestTestMethod014()
+        public void MstestMstestTwoRoadDivergedAndICouldNotTravelBothMtestTestMethod0141()
+        {
+        }
+		[TestMethod]
+        public void MstestMstestTwoRoadDivergedAndICouldNotTravelBothMtestTestMethod0142()
+        {
+        }
+		[TestMethod]
+        public void MstestMstestTwoRoadDivergedAndICouldNotTravelBothMtestTestMethod0143()
         {
         }
         
         [DataTestMethod]
         [DataRow( "Aa", "gb")]
         [DataRow( "Xx", "Yfhkdf")]
-        public void MSTestDataRowMstestMstestTwoRoadDivergedAndICouldNotTravelBothMtestTestMethod014(string str1, string str2)
+        public void MSTestDataRowMstestMstestTwoRoadDivergedAndICouldNotTravelBothMtestTestMethod014data(string str1, string str2)
         {
         }
     }
