@@ -6,14 +6,14 @@ namespace TestProject3
     public class UnitTest1_pr3
     {
         [TestMethod]
-        public void TestMethod0()
+        public void MstestMstestTwoRoadDivergedAndICouldNotTravelBothMtestTestMethod07()
         {
         }
         
         [DataTestMethod]
         [DataRow( "Aa", "gb")]
         [DataRow( "Xx", "Yfhkdf")]
-        public void MSTestDataRowTestMethod0(string str1, string str2)
+        public void MSTestDataRowMstestMstestTwoRoadDivergedAndICouldNotTravelBothMtestTestMethod07(string str1, string str2)
         {
         }
     }
