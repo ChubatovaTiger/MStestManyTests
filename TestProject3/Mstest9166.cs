@@ -1,0 +1,31 @@
+using Microsoft.VisualStudio.TestTools.UnitTesting;
+
+namespace TestProject3
+{
+    [TestClass]
+    public class MstestMstestTwoRoadDivergedAndICouldNotTravelBothMtestUnitTestClass_09166
+    {
+        [TestMethod]
+        public void MstestMstestTwoRoadDivergedAndICouldNotTravelBothMtestTestMethod091661()
+        {
+			Assert.AreEqual(1,2);
+        }
+		[TestMethod]
+        public void MstestMstestTwoRoadDivergedAndICouldNotTravelBothMtestTestMethod091662()
+        {
+			Assert.AreEqual(1,1);
+        }
+		[TestMethod]
+        public void MstestMstestTwoRoadDivergedAndICouldNotTravelBothMtestTestMethod091663()
+        {
+			Assert.AreEqual(1,2);
+        }
+        
+        [DataTestMethod]
+        [DataRow( "Aa", "gb")]
+        [DataRow( "Xx", "Yfhkdf")]
+        public void MSTestDataRowMstestMstestTwoRoadDivergedAndICouldNotTravelBothMtestTestMethod09166data(string str1, string str2)
+        {
+        }
+    }
+}
