@@ -1,4 +1,4 @@
-for (($i = 0); $i -lt 10000; $i++)
+for (($i = 0); $i -lt 100000; $i++)
 {
  $m='MstestMstestTwoRoadDivergedAndICouldNotTravelBothMtestTestMethod0' + $i;
  $n='MstestMstestTwoRoadDivergedAndICouldNotTravelBothMtestUnitTestClass_0' + $i;
